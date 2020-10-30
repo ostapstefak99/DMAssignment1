@@ -9,7 +9,7 @@ a {
 
 #profile-img {
     border-radius: 30px;
-    max-width: 300px;
+    max-width: 250px;
     height: auto;
     object-fit:cover;
     margin: auto;
@@ -39,7 +39,7 @@ h1 {
 }
 
 .icon {
-    font-size: 2.25em;
+    font-size: 2em;
 }
 
 .insta {
